@@ -65,7 +65,7 @@ This repository aims at gathering the websites that can be useful to an OSINT in
 - [L'Echo](https://www.lecho.be/)
 - [LeSoir](https://www.lesoir.be/)
 - [LeVif](https://www.levif.be/)
-- [Télésambre](https://www.telesambre.be/
+- [Télésambre](https://www.telesambre.be/)
 - [RTBF](https://www.rtbf.be/)
 - [RTL](https://www.rtl.be/)
 - [SudInfo](https://www.sudinfo.be/)

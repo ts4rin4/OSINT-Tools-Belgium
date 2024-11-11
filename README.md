@@ -29,7 +29,7 @@ This repository aims at gathering the websites that can be useful to an OSINT in
 - [Registre UBO](https://finances.belgium.be/fr/E-services/ubo-register)/[UBO Register](https://financien.belgium.be/nl/E-services/Ubo-register)
 - [Stori](https://www.fsma.be/en/stori)
 - [TrendsTop](https://trendstop.levif.be) 
-- [Wallonia Clusters](https://clusters.wallonie.be/federateur/
+- [Wallonia Clusters](https://clusters.wallonie.be/federateur/)
 
 ## Dating
 
